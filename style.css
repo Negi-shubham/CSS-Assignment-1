@@ -1,0 +1,25 @@
+#p1{
+    font-size: 50px;
+    text-align: center;
+    background-color: orange;
+    height: 100px;
+    margin: 20px;
+}
+#container{
+    display: flex;
+    /* background-color: lightblue; */
+    text-align: center;
+    height: 300px;
+}
+.div1{
+    background-color: aqua;
+    align-items: center;
+    margin: 20px;
+    width: 700px;
+}
+.div2{
+    background-color: grey;
+    align-items: center;
+    margin: 20px;
+    width: 400px;
+}
